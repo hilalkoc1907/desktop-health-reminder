@@ -33,10 +33,14 @@ Masaüstünde uzun saatler çalışanlar için geliştirilmiş; su tüketimini, 
 - JSON
 - Threading
 
-  
+
 ---
-<img width="982" height="1602" alt="image" src="https://github.com/user-attachments/assets/6296a6ac-7fbc-4199-bef9-477855e06c80" />
 
 
-<img width="900" height="836" alt="image" src="https://github.com/user-attachments/assets/d50dc1c4-46d8-411d-928d-339918d699a2" />
+  <p align="center">
+  <img src="<img width="982" height="1602" alt="image" src="https://github.com/user-attachments/assets/6296a6ac-7fbc-4199-bef9-477855e06c80" />" width="45%" />
+  <img src="<img width="694" height="413" alt="Ekran görüntüsü 2026-08-15 172630" src="https://github.com/user-attachments/assets/4554619d-3265-45e4-bc39-6b9f196efb7e" />
+" width="45%" />
+</p>
+
 
