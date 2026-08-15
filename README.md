@@ -2,15 +2,15 @@
 
 A modern desktop health assistant developed for those who work long hours at their desk; tracking water consumption, break intervals, and posture ergonomics.
 
-- Key Features
-  Smart Water Tracking: Set daily water goals and log intake with a single-click cup addition.
-  Eye & Posture Break: Screen break reminders at custom intervals.
-  Streak System: A progression-based streak tracker that increments as daily water goals are met.
-  7-Day Dynamic Chart
-  4 Customizable Themes: Pink Blossom, Pastel Matcha Green, Ocean Blue, and Dark Slate.
-  1-Hour Mute: Temporarily snooze notifications during meetings or deep-focus sessions.
-  Custom Toast Notifications: Python/Tkinter-based desktop notifications adapted to the active theme.
-  Lightweight Background Execution: Designed for minimal system resource consumption while running in the background.
+-  Key Features
+-  Smart Water Tracking: Set daily water goals and log intake with a single-click cup addition.
+- Eye & Posture Break: Screen break reminders at custom intervals.
+-  Streak System: A progression-based streak tracker that increments as daily water goals are met.
+- 7-Day Dynamic Chart
+- 4 Customizable Themes: Pink Blossom, Pastel Matcha Green, Ocean Blue, and Dark Slate.
+- 1-Hour Mute: Temporarily snooze notifications during meetings or deep-focus sessions.
+- Custom Toast Notifications: Python/Tkinter-based desktop notifications adapted to the active theme.
+- Lightweight Background Execution: Designed for minimal system resource consumption while running in the background.
 
 🚀 Quick Start (Portable / No Installation Required)
 
