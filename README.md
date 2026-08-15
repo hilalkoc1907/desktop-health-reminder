@@ -5,14 +5,15 @@ Masaüstünde uzun saatler çalışanlar için geliştirilmiş; su tüketimini, 
 ---
 Öne Çıkan Özellikler
 
-💧 Akıllı Su Takibi: Günlük su hedefi belirleme ve tek tıkla bardak ekleme.
-🧘 Göz & Duruş Molası: Belirlenen aralıklarla ekran molası hatırlatıcısı.
-🔥 Seri (Streak) Sistemi: Günlük su hedeflerini tamamladıkça ilerleyen seri sistemi.
-📊 Son 7 Günlük Grafik
-🎨 4 Özelleştirilebilir Tema: Pink Blossom, Pastel Matcha Green, Ocean Blue ve Dark Slate.
-🔕 1 Saat Sustur: Toplantı veya odaklanma sırasında bildirimleri geçici olarak susturma.
-🔔 Özel Toast Bildirimleri: Python/Tkinter tabanlı, temaya uyumlu masaüstü bildirimleri.
-⚡ Hafif Arka Plan Çalışması: Uygulama arka planda çalışırken düşük kaynak tüketimine odaklanan tasarım.
+1. Akıllı Su Takibi: Günlük su hedefi belirleme ve tek tıkla bardak ekleme.
+2. Göz & Duruş Molası: Belirlenen aralıklarla ekran molası hatırlatıcısı.
+3.  Seri (Streak) Sistemi: Günlük su hedeflerini tamamladıkça ilerleyen seri sistemi.
+4.  Son 7 Günlük Grafik
+5.   4 Özelleştirilebilir Tema: Pink Blossom, Pastel Matcha Green, Ocean Blue ve Dark Slate.
+6.    1 Saat Sustur: Toplantı veya odaklanma sırasında bildirimleri geçici olarak susturma.
+7.  Özel Toast Bildirimleri: Python/Tkinter tabanlı, temaya uyumlu masaüstü bildirimleri.
+8.   Hafif Arka Plan Çalışması: Uygulama arka planda çalışırken düşük kaynak tüketimine odaklanan tasarım.
+
 ## 🚀 Hızlı Başlangıç (Kurulumsuz Kullanım)
 
 1. Sağ taraftaki **[Releases](https://github.com/hilalkoc1907/desktop-health-reminder/releases)** sayfasına gidin.
