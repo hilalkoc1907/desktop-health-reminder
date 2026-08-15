@@ -1,0 +1,18 @@
+{
+    "daily_goal_liters": 3.0,
+    "glass_size_ml": 250,
+    "water_interval_mins": 60,
+    "break_interval_mins": 120,
+    "drunk_today_ml": 0,
+    "last_active_date": "2026-08-15",
+    "streak_count": 0,
+    "last_streak_completed_date": "",
+    "break_enabled": true,
+    "is_running": false,
+    "pomodoro_mode": true,
+    "mute_until": 0,
+    "active_theme": "Pastel Matcha Green",
+    "daily_history": {
+        "2026-08-15": 0.0
+    }
+}
