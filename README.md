@@ -2,32 +2,23 @@
 
 A modern desktop health assistant developed for those who work long hours at their desk; tracking water consumption, break intervals, and posture ergonomics.
 
-✨ Key Features
-Smart Water Tracking: Set daily water goals and log intake with a single-click cup addition.
-
-Eye & Posture Break: Screen break reminders at custom intervals.
-
-Streak System: A progression-based streak tracker that increments as daily water goals are met.
-
-7-Day Dynamic Chart
-
-4 Customizable Themes: Pink Blossom, Pastel Matcha Green, Ocean Blue, and Dark Slate.
-
-1-Hour Mute: Temporarily snooze notifications during meetings or deep-focus sessions.
-
-Custom Toast Notifications: Python/Tkinter-based desktop notifications adapted to the active theme.
-
-Lightweight Background Execution: Designed for minimal system resource consumption while running in the background.
+- Key Features
+1.Smart Water Tracking: Set daily water goals and log intake with a single-click cup addition.
+2. Eye & Posture Break: Screen break reminders at custom intervals.
+3.Streak System: A progression-based streak tracker that increments as daily water goals are met.
+4.7-Day Dynamic Chart
+5.4 Customizable Themes: Pink Blossom, Pastel Matcha Green, Ocean Blue, and Dark Slate.
+6.1-Hour Mute: Temporarily snooze notifications during meetings or deep-focus sessions.
+7.Custom Toast Notifications: Python/Tkinter-based desktop notifications adapted to the active theme.
+8.Lightweight Background Execution: Designed for minimal system resource consumption while running in the background.
 
 🚀 Quick Start (Portable / No Installation Required)
 
 Navigate to the Releases section on the right side of the repository.
-
 Download reminder.exe and settings_gui.exe from the latest release assets.
-
 Place both executable files in the same directory.
-
 Run reminder.exe to start your health assistant! 
+
 
  Technologies
  
@@ -38,6 +29,8 @@ Run reminder.exe to start your health assistant!
 -JSON
 -Threading
 
+
+---
 
 🇹🇷-
 🌸 Masaüstü Sağlık ve Su Takip Stüdyosu
@@ -51,10 +44,10 @@ Masaüstünde uzun saatler çalışanlar için geliştirilmiş; su tüketimini, 
 2. Göz & Duruş Molası: Belirlenen aralıklarla ekran molası hatırlatıcısı.
 3.  Seri (Streak) Sistemi: Günlük su hedeflerini tamamladıkça ilerleyen seri sistemi.
 4.  Son 7 Günlük Grafik
-5.   4 Özelleştirilebilir Tema: Pink Blossom, Pastel Matcha Green, Ocean Blue ve Dark Slate.
-6.    1 Saat Sustur: Toplantı veya odaklanma sırasında bildirimleri geçici olarak susturma.
+5.  4 Özelleştirilebilir Tema: Pink Blossom, Pastel Matcha Green, Ocean Blue ve Dark Slate.
+6. 1 Saat Sustur: Toplantı veya odaklanma sırasında bildirimleri geçici olarak susturma.
 7.  Özel Toast Bildirimleri: Python/Tkinter tabanlı, temaya uyumlu masaüstü bildirimleri.
-8.   Hafif Arka Plan Çalışması: Uygulama arka planda çalışırken düşük kaynak tüketimine odaklanan tasarım.
+8.  Hafif Arka Plan Çalışması: Uygulama arka planda çalışırken düşük kaynak tüketimine odaklanan tasarım.
 
 ## 🚀 Hızlı Başlangıç (Kurulumsuz Kullanım)
 
