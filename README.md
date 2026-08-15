@@ -36,12 +36,9 @@ Masaüstünde uzun saatler çalışanlar için geliştirilmiş; su tüketimini, 
 
 ---
 
-<p align="center">
-  <img src="<img width="981" height="1601" alt="Ekran görüntüsü 2026-08-15 173339" src="https://github.com/user-attachments/assets/27a80f11-f8d9-438a-96bb-238485870ec0" />
-" width="45%" />
-  <img src="
-<img width="694" height="413" alt="Ekran görüntüsü 2026-08-15 172630" src="https://github.com/user-attachments/assets/2c3a93ff-5988-4bf8-807d-67cebc28f1ed" />" width="45%" />
-</p>
 
 
+<img width="981" height="1601" alt="Ekran görüntüsü 2026-08-15 173339" src="https://github.com/user-attachments/assets/e9688a70-6f73-408a-8df3-d0d25e79dd86" />
 
+
+<img width="694" height="413" alt="Ekran görüntüsü 2026-08-15 172630" src="https://github.com/user-attachments/assets/a1a9404a-addf-42a9-b64b-a3ad2d9906e2" />
